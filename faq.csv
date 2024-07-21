@@ -1,0 +1,143 @@
+question,answer
+Who can use the utsonmobile application?,"The services are not available to persons under the age of 17 or to anyone previously suspended or removed from the services by Indian Railways. By accepting the Terms & Conditions or by otherwise using the Services or the Site, you represent that You are at least 17 years of age and have not been previously suspended or removed from the Services. You represent and warrant that you have the right, authority, and capacity to enter into this Agreement and to abide by all the terms and conditions of this Agreement. You shall not impersonate any person or entity, or falsely state or otherwise misrepresent identity, age or affiliation with any person or entity."
+How to download the utsonmobile application?,The Android version of the application can be downloaded from Google Play Store. The Windows version of the application can be downloaded from the Windows Store and the iOS version can be downloaded from the Apple store. The application is free to download.
+ What are the pre-requisites to avail the utsonmobile application service?,"The passenger should have Android/Windows/iPhone smartphone only. The phone should have minimum GPRS connectivity to use the services. The passenger should have money in their Railway Wallet (R-Wallet) or use Net-banking/Debit/Credit card facility. In order to book paperless tickets, the smart phone should be GPS enabled."
+ Is it mandatory to register for using the utsonmobile system?,"Yes, it is mandatory to register."
+Where to do registration?,"Registration can be done through mobile phone application or website (https://www.utsonmobile.indianrail.gov.in).The passenger first will get registered by providing his/her mobile number, name, password, gender and date of birth. After successful registration, an SMS will be sent to the user with login-id and password and zero-balance R-Wallet will be created without any additional cost"
+ Is it necessary to top up the inbuilt R-Wallet?,"No, it is not mandatory to top-up the R-Wallet. The application is integrated with the other payment options like Net-banking/Debit card/Credit card/UPI/Wallets through Paytm, MobiKwik , FreeCharge payment aggregators."
+Can a ticket be booked inside the station premises?,"According to the Railway commercial rule, a passenger should enter the Railway premises after purchasing the ticket. Hence, booking a ticket using utsonmobile application inside the station premises is not permissible."
+What are the modes of ticketing through utsonmobile application?,"The passenger can book either Paperless or Paper mode of ticket.
+Paperless Ticket: While booking the ticket, the passenger current geo location will be checked using phone GPS and the ticket will be booked if the passenger is not inside the Railway fencing area like station premises and inside the train. The passenger can travel without taking hardcopy of the ticket. The smartphone should be GPS enabled. However, the GPS is not required to book/renew season tickets.
+Paper Ticket: The passenger can book ticket from anywhere. On successful booking of ticket, the passenger will get Booking ID along with other ticket details as SMS/Notification. The passenger should go to the source station and take print out from the ATVM, CoTVM, OCR machines using the booking ID. The passenger can also approach UTS booking counter to take ticket printout.
+"
+ Is GPS necessary while booking a ticket through utsonmobile application?,"GPS is necessary to book the ticket in Paperless mode. For Paper based ticket, the usage of GPS is not mandatory."
+What are the types of ticket that can be bought from the utsonmobile application?,"Three types of ticket can be bought such as Journey ticket, Season ticket and Platform ticket (both Paperless and Paper based)."
+Is it necessary to take the print out of the ticket?,"For Paperless mode, the print of the ticket is not required and not allowed. For Paper based ticket, the print of the ticket is mandatory and travel without printed ticket will enforce penalty."
+How to take the print out of the paper based ticket?,"The passenger should go to the source station and take print out from the ATVM, CoTVM, OCR machines using the booking ID. The passenger can also approach UTS booking counter to take ticket printout. Travel without printed ticket will enforce penalty."
+What to do if my paper ticket is not printed at the ATVM/CoTVM/OCR machines?,Immediately contact the booking office supervisor or call Railway customer care.
+Is paperless Season ticket is valid from the same day of booking?,No. It is valid only from the next day of booking.
+Is it necessary to carry the same proof of ID which is mentioned in the season ticket?,"Always carry disclosed Identity card bearing same serial number used at the time of booking Season Ticket, without which the season ticket will be invalid and the passenger will be treated as without ticket."
+How to book paperless ticket without any hassle?,Check your phone GPS is enabled. Check your R-wallet balance for sufficient money or use other payment options. Book your ticket before entering the station premises
+"What to do if my paperless ticket is not booked, but money got deducted?","Click the ""Show Booked Ticket"" button available in the Main screen. If the ticket is not visible, then call customer care. In case money is deducted and ticket not booked, then the money will be refund automatically to your account after 7 days."
+How to cancel a mobile ticket?,"Paperless ticket is not allowed for cancellation.
+Paper ticket may be cancelled in the following method
+1. The cancellation of ticket through mobile application is allowed only if the ticket is not printed at the kiosk.
+2. Once, the ticket is printed at the kiosk, and then cancellation is allowed only at the UTS counter within one hour after printout. In both cancellation method, there will not be any cash refund at the time of cancellation. The refund amount after deduction of clerkage charge, if any, will be automatically topped up in the user R-Wallet or will be refunded to customers account."
+How to show the paperless ticket to the TTE?,"Without login, use ""SHOW BOOKED TICKET"" option available in the login screen or After login, use SHOW BOOKED TICKET option available in the main menu."
+"Whether ""SHOW BOOKED TICKET"" option works in offline mode?","Yes, ""SHOW BOOKED TICKET"" option work in the offline mode (i.e without internet)"
+How long will my paperless platform ticket be valid?,According to Railway rules platform ticket is valid for two hours from the time of booking.
+ What is the validity of paperless Season Ticket?,"1.The fresh paperless season ticket will be Valid from the next day.
+2. In case of advance renewal of season ticket, the new validity period logic is as follow
+i. In case the season ticket validity period is active, then the new validity period will be effective from existing validity period plus one day.
+ii. In case the season ticket validity period is expired, then the new validity period will be from next day (i.e. current date plus one).
+"
+What if the mobile handset battery is down during the journey?,"If the passenger is unable to show a paperless ticket to (Train Ticket Examiner) TTE due to the mobile battery drained out, then the travel of the passenger would be treated as a ticketless travel and penalty will be imposed."
+What if the mobile handset is lost during the journey?,The travel of the passenger would be treated as a ticketless travel and penalty will be imposed.
+Can the existing MSISDN (SIM number) be changed within the same handset?,No
+What is the procedure to change the mobile handset?,"Users are allowed to change the handset only once in a month (i.e. after 30/31 days) in case of having active/valid ticket.
+
+To restrict the duplication of UTS paperless ticket, utsonmobile application was designed in a way to show active ticket(s) on one mobile device at a time by binding the ticket with mobile device. However, the users are allowed to change the handset in the following ways mentioned below.
+1. Existing Mobile Handset is available and in working condition
+? a. If user is not having active/valid ticket(s)
+?? User can change the handset by simply login to the new handset with an OTP validation.
+? b. If user is having active/valid tickets(s)
+?? The steps to change the mobile handset are as follows:
+?? i. If the user initiates the change handset request from the existing mobile device.
+??? a. Open the utsonmobile app from old handset.
+??? b. Select Profile option -> select Change Handset -> select OK to proceed.
+??? c. Download the utsonmobile application in the new mobile device.
+??? d. Login using the same user id in the new handset with OTP validation
+??? e. Book new tickets.
+??? Note:
+???? a. All the active/valid tickets will be deleted from the old handset.
+???? b. All the active/valid tickets booked in the old handset will be resynchronized to the new handset after 1 hour from login time in the new mobile handset.
+?? ii. If the user initiates the change handset request from the website or the user has not initiated the change handset request, then
+??? a. Download the utsonmobile application in the new mobile device.
+??? b. Login using the same user id in the new handset with OTP validation
+??? c. Book new tickets.
+??? Note:
+???? a. The valid journey, return and platform tickets booked in the old handset will not be available in the new handset.
+???? b. Valid season tickets booked in the old handset will be available in the new handset only after lapse of 24 hours.
+
+2. Mobile handset is lost/non-repairable
+
+?? a. Download the utsonmobile application in the new mobile device.
+?? b. Login using the same user id in the new handset with OTP validation
+?? c. Book new tickets.
+?? Note:
+??? a. The valid journey, return and platform tickets booked in the old handset will not be available in the new handset.
+??? b. Valid season tickets booked in the old handset will be available in the new handset only after lapse of 24 hours.
+
+Note:
+? The offline mode of showing season tickets will not be available in the UTSONMOBILE application after 24 hours from the last login/data sync time with the server."
+Can a R-Wallet account be reactivated once surrendered?,"Yes, the surrendered R-Wallet can be reactivated having zero balance within 3 months from the date of surrender. Beyond three months, the passenger has to take specific permission of the Railway for reactivation."
+Can an active ticket be recovered once a passenger changes the handset?,"Yes, ticket can be recovered by using change handset option. One can change the handset only once in a month (i.e. after 30/31 days) in case of having active ticket. The steps to change the mobile handset is as follows:
+
+User has to initiate the change handset (IMEI) request from the existing mobile device.
+User can download the application in the new mobile device.
+User login to the application using their credential.
+User will use the sync ticket option to re-sync the ticket to the new mobile.
+All the ticket will be bound to the new mobile handset."
+How to change password?,The password can be changed by using the Change password option available in the mobile application or website.
+What is a R-Wallet?," R-Wallet is closed wallet of Indian Railways. Being a closed wallet, all the rules of RBI for Closed Wallet will apply to this wallet also.
+The R-Wallet with zero-balance will be created without any additional cost upon successful registration by the passenger. The minimum recharge value is Rs.100 and multiples of Rs.100 which can grow up to Rs. 10000/-.The maximum stored-value amount in this R-Wallet is Rs.10000.
+Currently, there is 3% bonus on every R-Wallet recharge (for limited period only).
+"
+ How to Recharge R-Wallet?,"R-Wallet will be issued with zero balance to all the users upon successful registration in the system either through utsonmobile mobile applications or website (https://www.utsonmobile.indianrail.gov.in). The user can recharge their R-Wallet at the UTS counters available at Railway Stations or through the website (https://www.utsonmobile.indianrail.gov.in). R-Wallet will be recharged instantly after completion of recharge process. However, if R-Wallet recharge gets failed and money has been deducted from customer's bank account, R-Wallet will be recharged with the same amount after getting confirmation from bank in settlement process. This process will take 2 to 3 working days. Currently, there is 3% bonus on every R-Wallet recharge (for limited period only)."
+How to check the R-Wallet balance?,The user can check the balance of R-Wallet either in the UTS mobile applications or in the website (https://www.utsonmobile.indianrail.gov.in).
+How to surrender my R-Wallet?,"The passenger has to initiate the surrender R-Wallet request from the mobile application and he/she will get a secret code as SMS. The passenger has to go to the Railway Station and show the secret code to the booking operator and get the cash refund after deducting the clerkage amount. However, the surrender policy will change time to time."
+How to unregister from UTS mobile application?,"Using Close Account option available at UTS Mobile Ticketing website, user can unregister their account (i.e. login account of UTS Mobile Ticketing website https://www.utsonmobile.indianrail.gov.in, as well as login account of UTSonMobile phone application). [Note: Close Account can be used only when R-Wallet balance is more than clerkage charges, i.e. Rs. 30/-]"
+How to get remaining R-Wallet balance amount after unregistering from UTS mobile application?,"Using Close Account option, remaining R-Wallet balance amount will be refunded after deduction of bonus amount and clerkage charges. After successful close account a confirmation code will be sent to user's registered mobile number. User have to visit nearest UTS counter to get the refund using this confirmation code."
+How to use new sim card on existing registered mobile handset?,"Using Close Account option, old sim card and registered mobile handset will be unregistered from UTS mobile application. User can now use new sim card on existing mobile handset to register again."
+How to Block my R-Wallet?,"The user is allowed to block the usage of R-Wallet through Helpline number (listed below) by giving user credentials. Once, it is blocked, then they cannot reuse it and no cash refund will be given for the left out money available in their R-Wallet."
+Why can't I get GPS signal?,The GPS signals may be very poor in the place from where you are booking (closed area/inside building) or your phone accuracy may not be good enough to meet the app requirement. We may also check the Location Settings in your phone for High Accuracy mode.
+How to revert a Wallet Surrender request?,"If you have mistakenly surrendered your wallet and again want to use it, then you can call the customer care number for your city and request for the same. However once refund has been collected from the railway counter no further reversion will be possible."
+Why syncing process taking more time?,"1.UTS application is designed in such a way that user's internet usage can be minimized during ticket booking by bundling list of all released stations within application.
+2.Application will only sync stations in case of addition of new stations when ticketing in new zones are enabled or if there is any modification/correction in station names. In the last two months various zones have been enabled for ticketing as UTS application is committed to provide Pan India services from 1st November 2018. Syncing process will be much reduced after Pan India release. However, syncing time also depends upon user's mobile device network speed.
+"
+"What are the payment options for ticket booking/R-Wallet recharge? Are we paying any extra charges to aggregators (PayTm, MobiKwik, FreeCharge)?","User can do payment to book ticket using two payment options i.e. R-WALLET and OTHERS. There are no transaction charges if user pays using R-WALLET. To promote digital transactions, Indian Railway is giving 3% bonus on recharging R-WALLET online.
+
+For OTHERS payment mode, UTS application is integrated with three payment aggregators i.e Paytm, Mobikwik and Freecharge through which application user can pay by using different debit cards, credit cards, internet-banking, UPI and different wallets. However, no extra charges are paid to payment aggregators i.e. Paytm, Mobikwik and Freecharge.
+
+Current charges applicable:-
+Debit card - No charges (below 2000) & 0.9% + G.S.T(above 2000).
+UPI - No charges (below 2000) & 0.65% + G.S.T(above 2000).
+Netbanking - 1.8% + GST
+Credit Card - 1.8% + GST
+Credit Card - 1.8% + GST"
+Why I am not able to save paperless ticket in my phone? Can ticket be shown without mobile network?,"Unlike IRCTC ticket, UTS ticket is not linked with any berth and can be duplicated easily. Permission to save the ticket is restricted to avoid duplication of ticket. UTS application is having SHOW TICKET option in Login screen to show active ticket(s) without depending on network connectivity."
+Can I allowed to book inter-zonal ticketing?,"Yes, you can book ticket for inter-zonal railway stations. It has been enabled from 1st November 2018."
+Why transactions are failed and delay in refund of money?,"Money got deducted, ticket not booked Case:
+
+It depends on various points like user mobile device connectivity, server issues, multiple hops, link down etc.
+Delayed Refund Case:
+Refund process is an elaborate and well-defined mechanism to ensure correct amount is refunded to right account. This involves authentication and verification at each stage i.e. Payment gateway, aggregators, card companies, acquiring bank, issuing bank and customer account etc. It takes 7-12 working days and in cases of transaction failures, money is refunded.
+Multiple payment handlers involves in the payment/refund process."
+What are the helpline numbers and mail ids?,"List of helpline numbers and mail ids are available in helpline option available in login screen of UTS application and ""Contact Us"" option available in utsonmobile website: https://www.utsonmobile.indianrail.gov.in/RDS/policy/contactUs."
+Can I check my Ticket Booking History in application?,User can check booked ticket history using BOOKING HISTORY option available in UTS application.
+How can I book QR code based ticket?,"1. Choose ""QR BOOKING"" option under ""BOOK TICKET"" option from Menu.
+2. Choose ""JOURNEY BY QR"" for Journey ticket or ""PLATFORM BY QR"" for Platform ticket.
+3. Scan the QR code placed at station using your mobile phone.
+4. Enter destination station.
+5. Select desired ticket details.
+6. Choose payment type
+7. Ticket booked once successful payment for ticket is done."
+What is ATVM Smart Card?,ATVM Smart Card is a physical card used to book unreserved tickets from Automatic Ticket Vending Machines (ATVM) installed at railway stations.
+What is ATVM Smart Card Number?,ATVM Smart Card Number is 9 digit number with initial two digit indicating Railway Zone. This number is printed on the front side of ATVM Smart Card.
+Where can I get ATVM Smart Card?,ATVM Smart Card is issued from SMC enabled UTS counters at Railway stations.
+Where can I recharge ATVM Smart Card?,ATVM Smart Card can be recharged from dedicated SMC counter at railway stations and through website (https://www.utsonmobile.indianrail.gov.in).
+How to credit the recharge amount in ATVM Smart Card?,"To credit the recharge amount in ATVM Smart Card, user needs to tap Smart Card on ATVM/Co-TVM machine within 60 days from the date of last recharge or expiry of smart card whichever is earlier."
+What are the options of recharge amount for ATVM Smart Card?,ATVM Smart Card can be recharged by paying Rs. 20/- or any amount in multiple of 50 up to Rs. 9500/-.
+What is the maximum balance limit of ATVM Smart Card?,Maximum limit of balance on ATVM smart card is Rs. 9975/- including bonus amount.
+What is the validity of ATVM Smart Card?,ATVM smart card validity is one year from issue/date of last top up on card and additional grace period of one month for return/deposit of smart card.
+Is there any bonus scheme for ATVM Smart Card?,"Yes, 3% bonus is given on recharge amount for ATVM Smart Card."
+What are the payment options for ATVM Smart Card recharge through website?,"User can make payment through UPI, debit card, credit card or net-banking."
+Are there any extra charges for online recharge of ATVM Smart Card?,"Yes, service charges are applicable as per Govt. guidelines."
+What will happen if the amount has been deducted from bank account but the Smart Card recharge is failed?,Amount will be refunded to user's bank account after confirmation from bank within 7-10 working days.
+Can I check my ATVM Smart Card Recharge History at website?,User can check recharge history of ATVM Smart Card using Smart Card Recharge History option available on website (https://www.utsonmobile.indianrail.gov.in).
+Can I make multiple payments for an ATVM Smart Card?,"The further payment is permitted only after the completion of last recharge period or after the recharge completed at ATVM, whichever is earlier."
+Can I recharge multiple ATVM Smart Cards from a single login?,"The ATVM smart card is not linked to any login/account, therefore any ATVM smart card can be recharged."
+"After successful payment through the website, How will the amount be added in ATVM Smart Card?","After successful online payment, the user needs to visit any ATVM within the same Railway zone. Place the smart card on the reader, choose the smart card recharge option on the screen and follow the instructions to complete the recharge process."
+What is LocoBo?,"I am Locobo, your Locomotive Bot. I’m here to help with any questions you might have about UTS Mobile Ticketing. Whether you need information about services, features, or how to use the system, just ask, and I'll do my best to provide you with the answers you need. How can I assist you today?"
+What is UTS?,It stands for Unified Ticketing System.
+What is utsonmobile application?,"The 'utsonmobile' application is developed in-house by Centre for Railway Information Systems (CRIS). It is available for Android, Windows and iOS based smartphones. User can download this application from Google play store, Windows app store and Apple store respectively, free of cost.The passenger first will get registered by providing his/her mobile number, name, password, gender and date of birth. Upon successful registration, Railway Wallet (R-WALLET) will be created automatically with zero balance to the passenger. There will be no extra cost for creating R-WALLET."

@@ -1,2 +1,2 @@
 # chat_bot
-An AI using ML APIs and models
+An AI using Vector Search, Pinecone and cosine similarity.
